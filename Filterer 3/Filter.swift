@@ -83,6 +83,9 @@ func filteredImageFunc(_ image: UIImage, amountCollor: Int, amountBrightness: In
                         break }
                 
                 
+                // Test Git
+                
+                
 
 
 
